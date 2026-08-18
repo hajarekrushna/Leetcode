@@ -22,19 +22,9 @@ class Solution {
             }
             merge = merge.next;
         }
-        if(list1 == null){
-            while(list2 != null){
-                merge.next = list2;
-                list2 = list2.next;
-                merge = merge.next;
-            }
-        }else{
-            while(list1 != null){
-                merge.next = list1;
-                list1 = list1.next;
-                merge = merge.next;
-            }
-        }
+        if(list1 == null) merge.next = list2;
+        else merge.next = list1;
+               
         return ans.next;
     }
 }
