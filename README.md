@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/hajarekrushna/Leetcode/tree/master/0035-search-insert-position) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/hajarekrushna/Leetcode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/hajarekrushna/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Hash Table
@@ -34,4 +35,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/hajarekrushna/Leetcode/tree/master/0021-merge-two-sorted-lists) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/hajarekrushna/Leetcode/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
