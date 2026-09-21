@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/hajarekrushna/Leetcode/tree/master/0035-search-insert-position) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/hajarekrushna/Leetcode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1480-running-sum-of-1d-array](https://github.com/hajarekrushna/Leetcode/tree/master/1480-running-sum-of-1d-array) |
+| [1732-find-the-highest-altitude](https://github.com/hajarekrushna/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/hajarekrushna/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Hash Table
 |  |
@@ -93,4 +94,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/hajarekrushna/Leetcode/tree/master/1480-running-sum-of-1d-array) |
+| [1732-find-the-highest-altitude](https://github.com/hajarekrushna/Leetcode/tree/master/1732-find-the-highest-altitude) |
 <!---LeetCode Topics End-->
