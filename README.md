@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/hajarekrushna/Leetcode/tree/master/0020-valid-parentheses) |
 | [0144-binary-tree-preorder-traversal](https://github.com/hajarekrushna/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/hajarekrushna/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 ## Tree
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/hajarekrushna/Leetcode/tree/master/0020-valid-parentheses) |
 | [0067-add-binary](https://github.com/hajarekrushna/Leetcode/tree/master/0067-add-binary) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/hajarekrushna/Leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Bit Manipulation
@@ -108,4 +110,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0986-interval-list-intersections](https://github.com/hajarekrushna/Leetcode/tree/master/0986-interval-list-intersections) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/hajarekrushna/Leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
