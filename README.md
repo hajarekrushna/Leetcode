@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/hajarekrushna/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/hajarekrushna/Leetcode/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/hajarekrushna/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/hajarekrushna/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Hash Table
 |  |
 | ------- |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/hajarekrushna/Leetcode/tree/master/0067-add-binary) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/hajarekrushna/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/hajarekrushna/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Stack
 |  |
 | ------- |
