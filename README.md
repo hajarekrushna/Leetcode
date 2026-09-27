@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/hajarekrushna/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0383-ransom-note](https://github.com/hajarekrushna/Leetcode/tree/master/0383-ransom-note) |
 | [0496-next-greater-element-i](https://github.com/hajarekrushna/Leetcode/tree/master/0496-next-greater-element-i) |
+| [1189-maximum-number-of-balloons](https://github.com/hajarekrushna/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/hajarekrushna/Leetcode/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/hajarekrushna/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Sliding Window
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/hajarekrushna/Leetcode/tree/master/0020-valid-parentheses) |
 | [0067-add-binary](https://github.com/hajarekrushna/Leetcode/tree/master/0067-add-binary) |
 | [0383-ransom-note](https://github.com/hajarekrushna/Leetcode/tree/master/0383-ransom-note) |
+| [1189-maximum-number-of-balloons](https://github.com/hajarekrushna/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/hajarekrushna/Leetcode/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/hajarekrushna/Leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Bit Manipulation
@@ -137,4 +139,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/hajarekrushna/Leetcode/tree/master/0383-ransom-note) |
+| [1189-maximum-number-of-balloons](https://github.com/hajarekrushna/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 <!---LeetCode Topics End-->
