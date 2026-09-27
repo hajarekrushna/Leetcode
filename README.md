@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/hajarekrushna/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/hajarekrushna/Leetcode/tree/master/0035-search-insert-position) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/hajarekrushna/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0496-next-greater-element-i](https://github.com/hajarekrushna/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/hajarekrushna/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/hajarekrushna/Leetcode/tree/master/0739-daily-temperatures) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/hajarekrushna/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/hajarekrushna/Leetcode/tree/master/0061-rotate-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/hajarekrushna/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/hajarekrushna/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0986-interval-list-intersections](https://github.com/hajarekrushna/Leetcode/tree/master/0986-interval-list-intersections) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/hajarekrushna/Leetcode/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 ## Recursion
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/hajarekrushna/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/hajarekrushna/Leetcode/tree/master/0035-search-insert-position) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/hajarekrushna/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Math
 |  |
 | ------- |
