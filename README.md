@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0092-reverse-linked-list-ii](https://github.com/hajarekrushna/Leetcode/tree/master/0092-reverse-linked-list-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/hajarekrushna/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/hajarekrushna/Leetcode/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/hajarekrushna/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/hajarekrushna/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/hajarekrushna/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Two Pointers
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/hajarekrushna/Leetcode/tree/master/0061-rotate-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/hajarekrushna/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/hajarekrushna/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0234-palindrome-linked-list](https://github.com/hajarekrushna/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0986-interval-list-intersections](https://github.com/hajarekrushna/Leetcode/tree/master/0986-interval-list-intersections) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/hajarekrushna/Leetcode/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 ## Recursion
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/hajarekrushna/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/hajarekrushna/Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/hajarekrushna/Leetcode/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/hajarekrushna/Leetcode/tree/master/0234-palindrome-linked-list) |
 ## Binary Search
 |  |
 | ------- |
@@ -98,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/hajarekrushna/Leetcode/tree/master/0020-valid-parentheses) |
 | [0144-binary-tree-preorder-traversal](https://github.com/hajarekrushna/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/hajarekrushna/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0234-palindrome-linked-list](https://github.com/hajarekrushna/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/hajarekrushna/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/hajarekrushna/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/hajarekrushna/Leetcode/tree/master/0739-daily-temperatures) |
