@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/hajarekrushna/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0240-search-a-2d-matrix-ii](https://github.com/hajarekrushna/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0275-h-index-ii](https://github.com/hajarekrushna/Leetcode/tree/master/0275-h-index-ii) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/hajarekrushna/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/hajarekrushna/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0496-next-greater-element-i](https://github.com/hajarekrushna/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/hajarekrushna/Leetcode/tree/master/0503-next-greater-element-ii) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/hajarekrushna/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0240-search-a-2d-matrix-ii](https://github.com/hajarekrushna/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0275-h-index-ii](https://github.com/hajarekrushna/Leetcode/tree/master/0275-h-index-ii) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/hajarekrushna/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/hajarekrushna/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0704-binary-search](https://github.com/hajarekrushna/Leetcode/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/hajarekrushna/Leetcode/tree/master/0875-koko-eating-bananas) |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/hajarekrushna/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/hajarekrushna/Leetcode/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 ## Sweep Line
 |  |
@@ -192,4 +195,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/hajarekrushna/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/hajarekrushna/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/hajarekrushna/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/hajarekrushna/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 <!---LeetCode Topics End-->
