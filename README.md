@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/hajarekrushna/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/hajarekrushna/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0496-next-greater-element-i](https://github.com/hajarekrushna/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0502-ipo](https://github.com/hajarekrushna/Leetcode/tree/master/0502-ipo) |
 | [0503-next-greater-element-ii](https://github.com/hajarekrushna/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0692-top-k-frequent-words](https://github.com/hajarekrushna/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0704-binary-search](https://github.com/hajarekrushna/Leetcode/tree/master/0704-binary-search) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/hajarekrushna/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/hajarekrushna/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/hajarekrushna/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0502-ipo](https://github.com/hajarekrushna/Leetcode/tree/master/0502-ipo) |
 | [0692-top-k-frequent-words](https://github.com/hajarekrushna/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/hajarekrushna/Leetcode/tree/master/0767-reorganize-string) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/hajarekrushna/Leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0409-longest-palindrome](https://github.com/hajarekrushna/Leetcode/tree/master/0409-longest-palindrome) |
 | [0410-split-array-largest-sum](https://github.com/hajarekrushna/Leetcode/tree/master/0410-split-array-largest-sum) |
+| [0502-ipo](https://github.com/hajarekrushna/Leetcode/tree/master/0502-ipo) |
 | [0767-reorganize-string](https://github.com/hajarekrushna/Leetcode/tree/master/0767-reorganize-string) |
 ## Matrix
 |  |
@@ -229,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/hajarekrushna/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/hajarekrushna/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/hajarekrushna/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0502-ipo](https://github.com/hajarekrushna/Leetcode/tree/master/0502-ipo) |
 | [0692-top-k-frequent-words](https://github.com/hajarekrushna/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/hajarekrushna/Leetcode/tree/master/0767-reorganize-string) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/hajarekrushna/Leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
