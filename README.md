@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/hajarekrushna/Leetcode/tree/master/0022-generate-parentheses) |
 | [0410-split-array-largest-sum](https://github.com/hajarekrushna/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/hajarekrushna/Leetcode/tree/master/0509-fibonacci-number) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/hajarekrushna/Leetcode/tree/master/0871-minimum-number-of-refueling-stops) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/hajarekrushna/Leetcode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/hajarekrushna/Leetcode/tree/master/0022-generate-parentheses) |
 | [0067-add-binary](https://github.com/hajarekrushna/Leetcode/tree/master/0067-add-binary) |
 | [0383-ransom-note](https://github.com/hajarekrushna/Leetcode/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/hajarekrushna/Leetcode/tree/master/0409-longest-palindrome) |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/hajarekrushna/Leetcode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/hajarekrushna/Leetcode/tree/master/0022-generate-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/hajarekrushna/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Monotonic Stack
 |  |
@@ -277,4 +280,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/hajarekrushna/Leetcode/tree/master/0509-fibonacci-number) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/hajarekrushna/Leetcode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
