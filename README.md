@@ -2,8 +2,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/hajarekrushna/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/hajarekrushna/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/hajarekrushna/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -41,8 +41,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/hajarekrushna/Leetcode/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/hajarekrushna/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Hash Table
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/hajarekrushna/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0217-contains-duplicate](https://github.com/hajarekrushna/Leetcode/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/hajarekrushna/Leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -58,21 +58,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/hajarekrushna/Leetcode/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/hajarekrushna/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Sliding Window
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/hajarekrushna/Leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/hajarekrushna/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Dynamic Programming
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0022-generate-parentheses](https://github.com/hajarekrushna/Leetcode/tree/master/0022-generate-parentheses) |
 | [0410-split-array-largest-sum](https://github.com/hajarekrushna/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/hajarekrushna/Leetcode/tree/master/0509-fibonacci-number) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/hajarekrushna/Leetcode/tree/master/0871-minimum-number-of-refueling-stops) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/hajarekrushna/Leetcode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 ## Linked List
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/hajarekrushna/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/hajarekrushna/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/hajarekrushna/Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
@@ -85,8 +85,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0237-delete-node-in-a-linked-list](https://github.com/hajarekrushna/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/hajarekrushna/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Two Pointers
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/hajarekrushna/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/hajarekrushna/Leetcode/tree/master/0061-rotate-list) |
 | [0143-reorder-list](https://github.com/hajarekrushna/Leetcode/tree/master/0143-reorder-list) |
@@ -97,8 +97,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1679-max-number-of-k-sum-pairs](https://github.com/hajarekrushna/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/hajarekrushna/Leetcode/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 ## Recursion
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0021-merge-two-sorted-lists](https://github.com/hajarekrushna/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/hajarekrushna/Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0143-reorder-list](https://github.com/hajarekrushna/Leetcode/tree/master/0143-reorder-list) |
@@ -106,8 +106,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/hajarekrushna/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0509-fibonacci-number](https://github.com/hajarekrushna/Leetcode/tree/master/0509-fibonacci-number) |
 ## Binary Search
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/hajarekrushna/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/hajarekrushna/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/hajarekrushna/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -125,16 +125,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/hajarekrushna/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/hajarekrushna/Leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 ## Math
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0066-plus-one](https://github.com/hajarekrushna/Leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/hajarekrushna/Leetcode/tree/master/0067-add-binary) |
 | [0509-fibonacci-number](https://github.com/hajarekrushna/Leetcode/tree/master/0509-fibonacci-number) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/hajarekrushna/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/hajarekrushna/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Stack
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0020-valid-parentheses](https://github.com/hajarekrushna/Leetcode/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/hajarekrushna/Leetcode/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/hajarekrushna/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
@@ -146,26 +146,29 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/hajarekrushna/Leetcode/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/hajarekrushna/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Tree
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/hajarekrushna/Leetcode/tree/master/0101-symmetric-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/hajarekrushna/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/hajarekrushna/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0572-subtree-of-another-tree](https://github.com/hajarekrushna/Leetcode/tree/main/0572-subtree-of-another-tree/) | Easy |
 ## Depth-First Search
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/hajarekrushna/Leetcode/tree/master/0101-symmetric-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/hajarekrushna/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/hajarekrushna/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0572-subtree-of-another-tree](https://github.com/hajarekrushna/Leetcode/tree/main/0572-subtree-of-another-tree/) | Easy |
 ## Binary Tree
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/hajarekrushna/Leetcode/tree/master/0101-symmetric-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/hajarekrushna/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/hajarekrushna/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0572-subtree-of-another-tree](https://github.com/hajarekrushna/Leetcode/tree/main/0572-subtree-of-another-tree/) | Easy |
 ## String
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0020-valid-parentheses](https://github.com/hajarekrushna/Leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/hajarekrushna/Leetcode/tree/master/0022-generate-parentheses) |
 | [0067-add-binary](https://github.com/hajarekrushna/Leetcode/tree/master/0067-add-binary) |
@@ -178,30 +181,30 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/hajarekrushna/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/hajarekrushna/Leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Bit Manipulation
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0067-add-binary](https://github.com/hajarekrushna/Leetcode/tree/master/0067-add-binary) |
 ## Simulation
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0067-add-binary](https://github.com/hajarekrushna/Leetcode/tree/master/0067-add-binary) |
 ## Divide and Conquer
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/hajarekrushna/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0215-kth-largest-element-in-an-array](https://github.com/hajarekrushna/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/hajarekrushna/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/hajarekrushna/Leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Prefix Sum
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0410-split-array-largest-sum](https://github.com/hajarekrushna/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/hajarekrushna/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/hajarekrushna/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [2574-left-and-right-sum-differences](https://github.com/hajarekrushna/Leetcode/tree/master/2574-left-and-right-sum-differences) |
 ## Sorting
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/hajarekrushna/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/hajarekrushna/Leetcode/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/hajarekrushna/Leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -215,24 +218,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1679-max-number-of-k-sum-pairs](https://github.com/hajarekrushna/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/hajarekrushna/Leetcode/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 ## Sweep Line
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0986-interval-list-intersections](https://github.com/hajarekrushna/Leetcode/tree/master/0986-interval-list-intersections) |
 ## Bracket Sequences
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0020-valid-parentheses](https://github.com/hajarekrushna/Leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/hajarekrushna/Leetcode/tree/master/0022-generate-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/hajarekrushna/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Monotonic Stack
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0496-next-greater-element-i](https://github.com/hajarekrushna/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/hajarekrushna/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/hajarekrushna/Leetcode/tree/master/0739-daily-temperatures) |
 ## Counting
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0347-top-k-frequent-elements](https://github.com/hajarekrushna/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/hajarekrushna/Leetcode/tree/master/0383-ransom-note) |
 | [0621-task-scheduler](https://github.com/hajarekrushna/Leetcode/tree/master/0621-task-scheduler) |
@@ -240,8 +243,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/hajarekrushna/Leetcode/tree/master/0767-reorganize-string) |
 | [1189-maximum-number-of-balloons](https://github.com/hajarekrushna/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 ## Greedy
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0409-longest-palindrome](https://github.com/hajarekrushna/Leetcode/tree/master/0409-longest-palindrome) |
 | [0410-split-array-largest-sum](https://github.com/hajarekrushna/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0502-ipo](https://github.com/hajarekrushna/Leetcode/tree/master/0502-ipo) |
@@ -249,15 +252,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/hajarekrushna/Leetcode/tree/master/0767-reorganize-string) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/hajarekrushna/Leetcode/tree/master/0871-minimum-number-of-refueling-stops) |
 ## Matrix
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0074-search-a-2d-matrix](https://github.com/hajarekrushna/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/hajarekrushna/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/hajarekrushna/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/hajarekrushna/Leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 ## Heap (Priority Queue)
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/hajarekrushna/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/hajarekrushna/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/hajarekrushna/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -268,38 +271,42 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0871-minimum-number-of-refueling-stops](https://github.com/hajarekrushna/Leetcode/tree/master/0871-minimum-number-of-refueling-stops) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/hajarekrushna/Leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 ## Quickselect
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/hajarekrushna/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/hajarekrushna/Leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Interactive
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0278-first-bad-version](https://github.com/hajarekrushna/Leetcode/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/hajarekrushna/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 ## Bucket Sort
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0347-top-k-frequent-elements](https://github.com/hajarekrushna/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0692-top-k-frequent-words](https://github.com/hajarekrushna/Leetcode/tree/master/0692-top-k-frequent-words) |
 ## Trie
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0692-top-k-frequent-words](https://github.com/hajarekrushna/Leetcode/tree/master/0692-top-k-frequent-words) |
 ## Memoization
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0509-fibonacci-number](https://github.com/hajarekrushna/Leetcode/tree/master/0509-fibonacci-number) |
 ## Backtracking
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0022-generate-parentheses](https://github.com/hajarekrushna/Leetcode/tree/master/0022-generate-parentheses) |
 ## String Matching
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0572-subtree-of-another-tree](https://github.com/hajarekrushna/Leetcode/tree/main/0572-subtree-of-another-tree/) | Easy |
 ## Hash Function
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0572-subtree-of-another-tree](https://github.com/hajarekrushna/Leetcode/tree/main/0572-subtree-of-another-tree/) | Easy |
+## Breadth-First Search
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/hajarekrushna/Leetcode/tree/master/0101-symmetric-tree) |
 <!---LeetCode Topics End-->
