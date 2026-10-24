@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/hajarekrushna/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/hajarekrushna/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/hajarekrushna/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/hajarekrushna/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/hajarekrushna/Leetcode/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0938-range-sum-of-bst](https://github.com/hajarekrushna/Leetcode/tree/master/0938-range-sum-of-bst) |
 ## Depth-First Search
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/hajarekrushna/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/hajarekrushna/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/hajarekrushna/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/hajarekrushna/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/hajarekrushna/Leetcode/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0938-range-sum-of-bst](https://github.com/hajarekrushna/Leetcode/tree/master/0938-range-sum-of-bst) |
 ## Binary Tree
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/hajarekrushna/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/hajarekrushna/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/hajarekrushna/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/hajarekrushna/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/hajarekrushna/Leetcode/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0938-range-sum-of-bst](https://github.com/hajarekrushna/Leetcode/tree/master/0938-range-sum-of-bst) |
 ## String
@@ -332,4 +335,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/hajarekrushna/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/hajarekrushna/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
