@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/hajarekrushna/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/hajarekrushna/Leetcode/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/hajarekrushna/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/hajarekrushna/Leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Hash Table
 |  |
 | ------- |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/hajarekrushna/Leetcode/tree/master/0509-fibonacci-number) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/hajarekrushna/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/hajarekrushna/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/hajarekrushna/Leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Stack
 |  |
 | ------- |
