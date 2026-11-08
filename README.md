@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/hajarekrushna/Leetcode/tree/master/0739-daily-temperatures) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/hajarekrushna/Leetcode/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0875-koko-eating-bananas](https://github.com/hajarekrushna/Leetcode/tree/master/0875-koko-eating-bananas) |
+| [0896-monotonic-array](https://github.com/hajarekrushna/Leetcode/tree/master/0896-monotonic-array) |
 | [0986-interval-list-intersections](https://github.com/hajarekrushna/Leetcode/tree/master/0986-interval-list-intersections) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/hajarekrushna/Leetcode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/hajarekrushna/Leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
